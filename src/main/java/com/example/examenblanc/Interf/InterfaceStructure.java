@@ -1,2 +1,4 @@
-package com.example.examenblanc.Interf;public interface InterfaceStructure {
+package com.example.examenblanc.Interf;
+
+public interface InterfaceStructure {
 }

@@ -1,4 +1,5 @@
-package com.example.examenblanc.Entities;
+package com.example.examenblanc.Interf;
 
 public interface LockableMethodCommand {
+    void execute();
 }

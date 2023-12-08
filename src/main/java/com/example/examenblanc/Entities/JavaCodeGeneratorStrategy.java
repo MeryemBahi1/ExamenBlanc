@@ -1,4 +1,7 @@
-package com.example.examenblanc.Interf;
+package com.example.examenblanc.Entities;
+
+import com.example.examenblanc.Interf.CodeGeneratorStrategy;
+import com.example.examenblanc.Interf.StructureFactory;
 
 public class JavaCodeGeneratorStrategy implements CodeGeneratorStrategy {
     private StructureFactory structureFactory;
